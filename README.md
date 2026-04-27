@@ -5,7 +5,7 @@ Repositório com a versão em HTML, CSS e PDF do meu currículo voltado para Qua
 ## Arquivos do projeto
 
 - `index.html`
-- `estilo.css`
+- `style.css`
 - [Janayna_Mirelly_Curriculo_QA.pdf](./pdf/Janayna_Mirelly_Curriculo_QA.pdf)
 
 ## Área de interesse
